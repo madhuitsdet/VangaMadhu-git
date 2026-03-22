@@ -1,5 +1,5 @@
 # Hello, I'm Vanga Madhu 👋
-## **Automation Test Engineer / SDET | Python, Selenium, Pytest, Robot Framework, JMeter**
+## **Automation Test Engineer | SDET | Python, Selenium, Pytest, Robot Framework, JMeter**
 
 I am a passionate **Automation Test Engineer** with 4 years of experience in the telecom and networking domains. I specialize in building scalable Python-based automation frameworks (Pytest, Robot) and ensuring high-quality software delivery through CI/CD integration.
 
@@ -28,23 +28,24 @@ I am a passionate **Automation Test Engineer** with 4 years of experience in the
 ### 📋 **Projects**
 
 1. **Web Application Automation**
-   - Automated end-to-end testing for e-commerce, job search & recruitment web apps using Selenium WebDriver, Robot Framework & Pytest.
-   - Implemented Page Object Model & data-driven testing for better scalability & maintainability.
-   - Integrated test suites with GitHub Actions & Jenkins for continuous testing & CI/CD pipeline execution.
+   * Automated end-to-end testing for e-commerce, job search & recruitment web apps using Selenium WebDriver, Robot Framework & Pytest.
+   * Implemented Page Object Model & data-driven testing for better scalability & maintainability.
+   * Integrated test suites with GitHub Actions & Jenkins for continuous testing & CI/CD pipeline execution.
 
 2. **5G Core Network Automation Framework (Amdocs - Openet Project)**
-   - Built Python-based automation framework covering 300+ test cases, reducing manual effort by 40%.
-   - Performed functional validation, API testing & performance benchmarking for PCF & BSF modules.
-   - Executed end-to-end call flows in Kubernetes-based lab environments.
+   * Built Python-based automation framework covering 300+ test cases, reducing manual effort by 40%.
+   * Performed functional validation, API testing & performance benchmarking for PCF & BSF modules.
+   * Executed end-to-end call flows in Kubernetes-based lab environments.
 
 ---
 
 ### 🏆 Achievements & Certifications
 
-* 🥈 **Silver Medalist**, Amdocs AQE Skill Olympics (2023)
-* 🌟 **Key Player Award** for Project Transition (2024)
-* 📜 **AWS Certified** Cloud Practitioner (CLF-C02)
-* 📜 **Microsoft Certified** Azure Fundamentals (AZ-900)
+* 🥈 **Silver Medalist :**, Amdocs AQE Skill Olympics (2023)
+* 🌟 **Key Player Award :** for Project Transition (2024)
+* 🌟 **Recognition :**	Recognized for outstanding contribution to AT&T’s Openet policy delivery for AON ISSU and ISSR - (2025)
+* 📜 **AWS Certified :** Cloud Practitioner (CLF-C02)
+* 📜 **Microsoft Certified :** Azure Fundamentals (AZ-900)
 
 ---
 
